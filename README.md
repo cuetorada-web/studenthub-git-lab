@@ -1,2 +1,2 @@
-"el proyecto será desarrollado colaborativamente utilizando git y GitHub."
+"StudentHub es una plataforma universitaria para administrar información de estudiantes."
 
